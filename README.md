@@ -1,7 +1,11 @@
 # hi, i'm dylan pak
 
-19. building between taiwan and seattle.  
-ai content systems, viral distribution, agentic workflows.
+19. I got into UW at age 16.
+    
+And I spend most of time on:
+- building ai content systems
+- leading viral distribution for consumer apps
+- and studying greyhat new media marketing
 
 - site — https://dylanpak.com
 - writing — https://dylanpak.com/mind
