@@ -18,7 +18,7 @@ i spend most of my time on:
 ## what i'm working on
 
 - **moonshot** — the ai thought layer · https://moonshot.computer
-- **67/labs** — seed fund for contrarian thinkers · https://67labs.co
+- **67/labs** — a studio for the attention economy · https://67labs.co
 - **signalroom** — tiktok / instagram automation across 50+ iphones · https://signalrooms.xyz
 - **marketeros** — weekly playbooks for ai viral growth, 5,000+ subs · https://marketeros.tech
 - 200+ faceless twitter accounts — distributed content network
