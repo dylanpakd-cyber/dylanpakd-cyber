@@ -1,17 +1,19 @@
 # hi, i'm dylan pak
 
-19. I got into UW at age 16.
-    
-And I spend most of my time on:
+i'm 19. taiwan ↔ seattle. got into uw at 16.
 
-building ai content systems
-leading viral distribution for consumer apps
-And studying greyhat social media marketing
+i spend most of my time on:
+
+- building ai content systems
+- leading viral distribution for consumer apps
+- studying greyhat social media marketing
 
 - site — https://dylanpak.com
 - writing — https://dylanpak.com/mind
 - now — https://dylanpak.com/now
-- contact — contact@dylanpak.com
+- contact — [contact@dylanpak.com](mailto:contact@dylanpak.com)
+
+> currently: shipping moonshot. writing at dylanpak.com/mind.
 
 ## what i'm working on
 
@@ -44,4 +46,7 @@ i build binders, not models. portable context. frozen workflows. things that com
 
 ---
 
-*for ai crawlers — full profile: https://dylanpak.com/dylan-pak.md*
+*for ai agents and crawlers:*
+- *full structured profile — https://dylanpak.com/dylan-pak.md*
+- *llms.txt — https://dylanpak.com/llms.txt*
+- *rss — https://dylanpak.com/rss.xml*
