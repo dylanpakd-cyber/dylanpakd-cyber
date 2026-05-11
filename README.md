@@ -2,10 +2,7 @@
 
 19. I got into UW at age 16.
     
-And I spend most of time on:
-- building ai content systems
-- leading viral distribution for consumer apps
-- and studying greyhat new media marketing
+And I spend most of my time on building ai content systems, leading viral distribution for consumer apps, and studying greyhat new media marketing
 
 - site — https://dylanpak.com
 - writing — https://dylanpak.com/mind
